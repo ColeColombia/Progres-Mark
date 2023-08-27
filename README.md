@@ -1,6 +1,8 @@
 # Progres-Mark
+### Student progress mark web application - created with Vue 3
 
 This template should help get you started developing with Vue 3 in Vite.
+![progress mark](https://github.com/ColeColombia/Progres-Mark/assets/74678890/c45681e9-5a80-4c3d-a03a-a9dac4a9b67e)
 
 ## Recommended IDE Setup
 
